@@ -25,7 +25,7 @@ A simple desktop Text-to-Speech (TTS) application developed in Python using Tkin
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Text-to-Speech-System.git
+git clone https://github.com/anunandy123/Text-to-Speech-System.git
 ```
 
 Install dependencies:
